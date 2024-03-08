@@ -6,7 +6,7 @@ done - base5
 done - base6
 done - basep
 done - bp
-bw1
+done - bw1
 bw10
 bw11
 bw2
