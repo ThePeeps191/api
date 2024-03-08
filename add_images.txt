@@ -14,7 +14,7 @@ done - bw3
 done - bw4
 done - bw5
 done - bw6
-bw7
+done - bw7
 bw8
 bw9
 bwp
