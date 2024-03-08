@@ -1,3 +1,14 @@
 body {
 	font-family: "Fira Sans", "Segoe UI", sans-serif;
+	margin-left: 5px;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+a:hover {
+    font-weight: 500;
+    text-decoration: none;
 }
