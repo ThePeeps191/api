@@ -1,6 +1,6 @@
 import json, urllib.request
 
-setid = "bw7"
+setid = "bw8"
 apiurl = "https://thepeeps191.github.io/api/"
 
 with open(f"cards/{setid}.json") as f:
