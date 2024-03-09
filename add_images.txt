@@ -17,7 +17,7 @@ done - bw6
 done - bw7
 done - bw8
 done - bw9
-bwp
+done - bwp
 cel25
 cel25c
 col1
