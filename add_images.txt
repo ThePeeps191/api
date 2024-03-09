@@ -19,7 +19,7 @@ done - bw8
 done - bw9
 done - bwp
 done - cel25
-cel25c
+done - cel25c
 col1
 dc1
 det1
